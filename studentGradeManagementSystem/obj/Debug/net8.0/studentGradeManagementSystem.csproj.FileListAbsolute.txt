@@ -1,0 +1,14 @@
+C:\Users\amera\source\repos\studentGradeManagementSystem\studentGradeManagementSystem\bin\Debug\net8.0\studentGradeManagementSystem.exe
+C:\Users\amera\source\repos\studentGradeManagementSystem\studentGradeManagementSystem\bin\Debug\net8.0\studentGradeManagementSystem.deps.json
+C:\Users\amera\source\repos\studentGradeManagementSystem\studentGradeManagementSystem\bin\Debug\net8.0\studentGradeManagementSystem.runtimeconfig.json
+C:\Users\amera\source\repos\studentGradeManagementSystem\studentGradeManagementSystem\bin\Debug\net8.0\studentGradeManagementSystem.dll
+C:\Users\amera\source\repos\studentGradeManagementSystem\studentGradeManagementSystem\bin\Debug\net8.0\studentGradeManagementSystem.pdb
+C:\Users\amera\source\repos\studentGradeManagementSystem\studentGradeManagementSystem\obj\Debug\net8.0\studentGradeManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amera\source\repos\studentGradeManagementSystem\studentGradeManagementSystem\obj\Debug\net8.0\studentGradeManagementSystem.AssemblyInfoInputs.cache
+C:\Users\amera\source\repos\studentGradeManagementSystem\studentGradeManagementSystem\obj\Debug\net8.0\studentGradeManagementSystem.AssemblyInfo.cs
+C:\Users\amera\source\repos\studentGradeManagementSystem\studentGradeManagementSystem\obj\Debug\net8.0\studentGradeManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\amera\source\repos\studentGradeManagementSystem\studentGradeManagementSystem\obj\Debug\net8.0\studentGradeManagementSystem.dll
+C:\Users\amera\source\repos\studentGradeManagementSystem\studentGradeManagementSystem\obj\Debug\net8.0\refint\studentGradeManagementSystem.dll
+C:\Users\amera\source\repos\studentGradeManagementSystem\studentGradeManagementSystem\obj\Debug\net8.0\studentGradeManagementSystem.pdb
+C:\Users\amera\source\repos\studentGradeManagementSystem\studentGradeManagementSystem\obj\Debug\net8.0\studentGradeManagementSystem.genruntimeconfig.cache
+C:\Users\amera\source\repos\studentGradeManagementSystem\studentGradeManagementSystem\obj\Debug\net8.0\ref\studentGradeManagementSystem.dll
